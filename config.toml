@@ -1,5 +1,5 @@
 baseURL = 'https://junhaidiao.github.io/heyhay'
 languageCode = 'en-us'
 title = 'junhai Site'
-theme = "tranquilpeak"
+theme = "hugo-coder"
 
