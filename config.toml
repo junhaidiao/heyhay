@@ -1,0 +1,5 @@
+baseURL = 'heyha1.vercel.app/heyhay'
+languageCode = 'en-us'
+title = 'junhai Site'
+theme = "tranquilpeak"
+
